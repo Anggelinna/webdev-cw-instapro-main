@@ -1,9 +1,7 @@
 // Замени на свой, чтобы получить независимый от других набор данных.
 
-//import { saveUserToLocalStorage } from "./helpers";
-//import { sanitizeHtml } from "./sanitize";
-
-//const personalKey = "prod";
+import { saveUserToLocalStorage } from "./helpers";
+import { sanitizeHtml } from "./sanitize";
 
 // "боевая" версия инстапро лежит в ключе prod
 const personalKey = "Anggelina";
