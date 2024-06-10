@@ -1,5 +1,4 @@
 // Замени на свой, чтобы получить независимый от других набор данных.
-
 import { saveUserToLocalStorage } from "./helpers";
 import { sanitizeHtml } from "./sanitize";
 
